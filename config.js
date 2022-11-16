@@ -39,15 +39,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282376267531', 'Aisyah', true],
-['6281361281833', 'Aldi', true]
+['6282313633644', 'OBET', true],
+['6283825121591', 'Aldi', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283838186170'
-global.nomorown = '6281361281833'
-global.nomorown1 = '6281361281833'
-global.nomorown2 = '6282376267531'
+global.nomorbot = '6283825121591'
+global.nomorown = '6282313633644'
+global.nomorown1 = '6282313633644'
+global.nomorown2 = '6283825121591'
 global.nomorwa = '0'
 
 
@@ -55,22 +55,22 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = 'Created By Aldi'
-global.namebot = '𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
+global.namebot = 'OBET'
+global.wm = '© Aldi >< OBET'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
 global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
-global.stickauth = `© Yushino MD`
+global.titlebot = `Aldi >< OBET`
+global.stickpack = '𝑨𝒍𝒅𝒊'
+global.stickauth = `© Stiker`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Aldi'
-global.nameown2 = 'Aisyah'
+global.nameown1= 'OBET'
+global.nameown2 = 'Aldi'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
@@ -79,18 +79,18 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/_b4c00t4an_s3l3b'
 global.sgh = 'https://github.com/hyuura-official' //github
-global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/CdSG8DATE3I3pxh79OApLT' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0813 6128 1833'
-global.povo = '-'
-global.pgopay = '0813 6128 1833'
+global.pdana = '089624335322'
+global.povo = '089624335322'
+global.pgopay = '089624335322'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = '082313633644'
+global.ppulsa2 = '089624335322'
+global.psaweria = 'https://saweria.co/OBET212'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
