@@ -2,8 +2,8 @@ const cooldown = 300000
 let handler = async (m, { usedPrefix }) => {
     let user = global.db.data.users[m.sender]
     let timers = (cooldown - (new Date - user.lastmining))
-    if (user.health < 80) return m.reply(`
-Requires at least 80 ❤️Healths for the mining!!
+    if (user.health < 60) return m.reply(`
+Requires at least 60 ❤️Healths for the mining!!
 please buy ❤️Healths first by typing *${usedPrefix}buy potion <quantity>*,
 and type *${usedPrefix}heal <quantity>* to use potions
 `.trim())
